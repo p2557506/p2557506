@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p2557506
+- 👋 Hi, I’m Isaac Zerououl
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently learning C++, C# and HTML
 - 💞️ I’m looking to collaborate on web development projects
