@@ -3,11 +3,11 @@
 <h3 align="center">Passionate Software Developer | Full-Stack Developer | Game Developer | Based in London</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 
-- 🔭 I’m currently working on **Naruto Website**
+- 🔭 I’m currently working on a**Book Backlog Full-Stack Website**
 
-- 🌱 I’m currently learning **PostgreSQL & AWS**
+- 🌱 I’m currently learning ** Angular, PostgreSQL & AWS**
 
-- 💬 Ask me about **React and web development**
+- 💬 Ask me about **React and general Web Development**
 
 - 📫 How to reach me **zerououli@gmail.com**
 
