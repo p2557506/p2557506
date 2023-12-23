@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a**Book Backlog Full-Stack Website**
 
-- 🌱 I’m currently learning ** Angular, PostgreSQL & AWS**
+- 🌱 I’m currently learning **Angular, PostgreSQL & AWS**
 
 - 💬 Ask me about **React and general Web Development**
 
