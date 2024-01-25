@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on a **Book Backlog Full-Stack Website**
 
-- 🌱 I’m currently learning **Angular, PostgreSQL & AWS**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React and general Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zerououli@gmail.com**
 
