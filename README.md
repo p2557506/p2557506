@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://p2557506.io)
 <h1 align="center">Hi 👋, I'm Isaac Zerououl</h1>
-<h3 align="center">Passionate Software Developer | Full-Stack Developer | Game Developer | Based in London</h3>
+<!--<h3 align="center">Passionate Software Developer | Full-Stack Developer | Game Developer | Based in London</h3>-->
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 
 - 🔭 I’m currently working on a **Book Backlog Full-Stack Website**
